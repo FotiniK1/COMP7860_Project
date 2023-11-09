@@ -4,12 +4,12 @@ In this repository, we have submitted the Google Colab notebooks that were used 
 
 ## Important Notes
 1. The order in which the notebooks should be examined is:
-   - WASP-100: This notebook demonstrates how eleanor works and it includes the first results we attempt to replicate (creating the light curves). It includes notes from the tutorial (from the authors) as well as additional notes from us on obstacles we encountered, how we overcame them and short discussions about our results.
-   - TOI-172: Here we replicate the evaluation process from the paper. 
-   - TOI-530: In this notebook, we demonstrate how some targets are not suitable for eleanor, as the produced light curves included too much noise to distinguish any transit features. In addition, not all targets have light curves that can be accessed via TASOC and/or Oelkers & Stassun (OS19).
+   - WASP-100: This notebook demonstrates how eleanor works and it includes the first results we attempt to replicate (creating the light curves). It includes notes from the tutorial (from the authors) as well as additional notes from us on obstacles we encountered, how we overcame them and short discussions about our results. WASP-100 is part of the paper's original dataset.
+   - TOI-172: Here we replicate the evaluation process from the paper. TOI-172 is part of the paper's original dataset.
+   - TOI-530: In this notebook, we demonstrate how some targets are not suitable for eleanor, as the produced light curves included too much noise to distinguish any transit features. In addition, not all targets have light curves produced by the TASOC and/or Oelkers & Stassun (OS19) pipelines.
    - All other targets: These are the targets acquired for our new dataset and can be viewed at any order.
-2. Occasionally, certain cells may take some time to run.
-3. At times, cells retrieving the TASOC or OS19 light curves might produce an error. All targets (except for TOI-530) have light curves in both TASOC and OS19. If an error occurs, please run the cells again starting from the first cell in the "Crossmatch" section.
+2. Occasionally, certain cells may take some time to run (usually up to 4-5 minutes).
+3. At times, cells retrieving the TASOC or OS19 light curves might produce an error. All targets (except for TOI-530) have light curves in both TASOC and OS19. If such an error occurs, please run the cells again starting from the first cell in the "Crossmatch" section.
 4. Some plots in the notebooks may appear slightly different to the plots in the report. This may be due to changes in the TASOC pipeline (producing different light curves), updates to eleanor or new data being added from TESS to our targets. However, the important features remain the same, namely the number, depth and time coordinates of the transits. Therefore, minor differences in the plots do not affect our final results. 
 
 
