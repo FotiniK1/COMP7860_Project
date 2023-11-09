@@ -10,7 +10,7 @@ In this repository, we have submitted the Google Colab notebooks that were used 
    - All other targets: These are the targets acquired for our new dataset and can be viewed at any order.
 2. Occasionally, certain cells may take some time to run.
 3. At times, cells retrieving the TASOC or OS19 light curves might produce an error. All targets (except for TOI-530) have light curves in both TASOC and OS19. If an error occurs, please run the cells again starting from the first cell in the "Crossmatch" section.
-4. Some plots in the notebooks may appear slightly different to the plots in the report. This may be due to changes in the TASOC pipeline (producing different light curves), updates to eleanor or new data being added from TESS to our targets. However, the important features remain the same, namely the number, depth and time coordinates of the transits. Therefore, minor differences in the plots do not pose an issue for our final results. 
+4. Some plots in the notebooks may appear slightly different to the plots in the report. This may be due to changes in the TASOC pipeline (producing different light curves), updates to eleanor or new data being added from TESS to our targets. However, the important features remain the same, namely the number, depth and time coordinates of the transits. Therefore, minor differences in the plots do not affect our final results. 
 
 
 # References
