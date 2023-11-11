@@ -1,6 +1,6 @@
 # COMP7860_Project
 
-In this repository, we have submitted the Google Colab notebooks that were used for the replication of the original data, as well as the notebooks with the new dataset. This is related to the paper chosen for the COMP7860 project: "eleanor: An Open-source Tool for Extracting Light Curves from the TESS Full-frame Images". The project report has been submitted separately through the Macquarie University iLearn platform. The original paper can be found in the references below.
+In this repository, we have submitted the Google Colab notebooks that were used for the replication of the original data, as well as the notebooks with the new dataset. This is related to the paper chosen for the COMP7860 project: "eleanor: An Open-source Tool for Extracting Light Curves from the TESS Full-frame Images". The project report has been submitted separately through the Macquarie University iLearn platform. The original paper and GitHub repository can be found in the references below.
 
 ## Important Notes
 1. The order in which the notebooks should be examined is:
@@ -14,4 +14,5 @@ In this repository, we have submitted the Google Colab notebooks that were used 
 
 
 # References
-1. Feinstein et al. 2019, PASP, 131, 1003, link: https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F/abstract 
+1. Feinstein et al. 2019, PASP, 131, 1003, link: https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F/abstract
+2. GitHub for paper: https://github.com/afeinstein20/eleanor/tree/main
